@@ -1,6 +1,7 @@
 #!/bin/bash
 version="0.4"
 notif_header_outputchange="Monitor settings change"
+# default values
 screen0=LVDS1
 screen1=HDMI1
 screen2=VGA1
